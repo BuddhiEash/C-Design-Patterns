@@ -1,0 +1,13 @@
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.exe
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.deps.json
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.runtimeconfig.json
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.runtimeconfig.dev.json
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.dll
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\bin\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.pdb
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.csproj.AssemblyReference.cache
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.AssemblyInfoInputs.cache
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.AssemblyInfo.cs
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.csproj.CoreCompileInputs.cache
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.dll
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.pdb
+D:\Coding Projects\Csharp\ConsoleAppDesignPatterns\ConsoleAppDesignPatterns\obj\Debug\netcoreapp3.1\ConsoleAppDesignPatterns.genruntimeconfig.cache
